@@ -1,1 +1,2 @@
 # Log-Anomaly-Detection
+This is a LLM based log anomaly detection system. It is based on the paper [Anomaly Transformer](https://arxiv.org/abs/2110.02642). The user is able to write prompts to the LLM interface to raise queries about the occurances of anomalies within the specified time period and it should return the anomalous log entries within that time frame. The model is trained on BGL dataset.
