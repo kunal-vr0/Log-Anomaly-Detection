@@ -1,0 +1,7 @@
+torch
+numpy
+pyngrok
+pandas
+pydantic
+uvicorn
+fastapi
